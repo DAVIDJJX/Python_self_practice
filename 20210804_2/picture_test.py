@@ -8,3 +8,4 @@ plt.xlabel('n',fontsize=16)
 plt.ylabel('t',fontsize=16)
 plt.savefig('pic3.jpg')
 plt.show()
+2
