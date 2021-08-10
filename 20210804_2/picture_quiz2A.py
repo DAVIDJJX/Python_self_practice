@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-
+## 1
 
 xpt=[1,3,5,9]
 ypt=[1,3,5,9]
